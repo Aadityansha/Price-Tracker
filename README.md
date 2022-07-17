@@ -1,2 +1,2 @@
 # Price Tracker
-A Simple python program to track amazon product price.
+A simple python program to track amazon product price.
